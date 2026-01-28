@@ -1,13 +1,15 @@
 [package]
 authors = ["周睿 <zrufo747@outlook.com>"]
-categories = ["os", "embedded", "development-tools", "config"]
+categories = ["command-line-utilities", "embedded", "development-tools"]
 description = "A tool for operating system development"
+documentation = "https://docs.rs/ostool"
 edition = "2024"
+keywords = ["os", "embedded", "qemu", "u-boot", "bootloader"]
 license = "MIT OR Apache-2.0"
 name = "ostool"
 readme = "../README.md"
 repository = "https://github.com/ZR233/ostool"
-version = "0.8.8"
+version = "0.8.9"
 
 [[bin]]
 name = "ostool"
