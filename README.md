@@ -1,6 +1,6 @@
 # ostool
 
-[![CI](https://github.com/ZR233/ostool/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ZR233/ostool/actions/workflows/ci.yml)
+[![Check](https://github.com/drivercraft/ostool/actions/workflows/check.yaml/badge.svg)](https://github.com/drivercraft/ostool/actions/workflows/check.yaml)
 [![Crates.io](https://img.shields.io/crates/v/ostool.svg)](https://crates.io/crates/ostool)
 [![License](https://img.shields.io/badge/license-MIT%2FApache--2.0-blue.svg)](LICENSE)
 [![Rust](https://img.shields.io/badge/rust-1.70+-orange.svg)](https://www.rust-lang.org)
