@@ -14,7 +14,7 @@ permissions:
 jobs:
   release-plz:
     if: ${{ github.repository_owner == 'drivercraft' && (github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success') }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - &checkout
         name: Checkout repository
